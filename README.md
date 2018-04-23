@@ -7,4 +7,4 @@ https://docs.google.com/document/d/1pcz0se8T1wSEm9NS8fKm66_0Sdro_g1Efjzfu5_kKPw/
 
 ## Register Repo
 
-https://docs.google.com/document/d/14pa48BHTyOBPFsJscgZgN8egPabpOal1q_2BW4Xv0cs/edit?usp=sharing
+https://docs.google.com/document/d/1VpjIqvEAQ0Psbtxt6rNZVgccQAcWuf8Fq9h0RSsMxgI/edit?usp=sharing
