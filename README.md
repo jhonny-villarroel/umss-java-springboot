@@ -3,8 +3,12 @@
 # URL Presentation
 https://docs.google.com/presentation/d/1FFsNkJfvd162TQp_MS8dKQFS8nUvf46pzLb2OHpkiVw/edit?usp=sharing
 
-# URL LAB
-https://docs.google.com/document/d/1pcz0se8T1wSEm9NS8fKm66_0Sdro_g1Efjzfu5_kKPw/edit?usp=sharing
+# Git
+## Git Presentation URL:
+https://drive.google.com/file/d/12TXZnDASxbL7LYALvFG3HeKKj7uGnsh8/view?usp=sharing
+
+## LAB
+https://docs.google.com/document/d/1Y_4NSPK2WOBzDpSL7Nb7qD1r3WLV0hqZTn130V89KNQ/edit?usp=sharing
 
 ## Register Repo
 
