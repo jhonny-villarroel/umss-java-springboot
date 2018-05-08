@@ -13,3 +13,6 @@ https://docs.google.com/document/d/1Y_4NSPK2WOBzDpSL7Nb7qD1r3WLV0hqZTn130V89KNQ/
 ## Register Repo
 
 https://docs.google.com/document/d/1VpjIqvEAQ0Psbtxt6rNZVgccQAcWuf8Fq9h0RSsMxgI/edit?usp=sharing
+
+### temp
+org.hibernate.dialect.MySQL5InnoDBDialect
