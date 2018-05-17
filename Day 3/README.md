@@ -11,6 +11,12 @@ https://drive.google.com/file/d/1UyDV5IEl2ghtxg04FRdh0IUoWtwjh5hM/view?usp=shari
 
 https://docs.google.com/document/d/13OTPPlZWT-_I8AEfI4RpWXDanpuwJddDCklhxfFy-AQ/edit?usp=sharing
 
+## BOARDS.
+Trello:
+https://trello.com/b/fUB5lyIX/devops-avantica
+
+Jira:
+https://es.atlassian.com/software/jira
 
 
 
