@@ -8,6 +8,7 @@ https://www.youtube.com/watch?v=D8vT7G0WATM&list=PLF6BFA8BAEDF6CE70
 
 # BOARDS
 https://www.atlassian.com/software/jira
+
 https://trello.com
 
 # HOW TO WRITE US
