@@ -14,6 +14,11 @@ https://trello.com
 # HOW TO WRITE US
 https://www.tenstep.ec/portal/articulos-boletin-tenstep/253-scrum-como-escribir-historias-de-usuarios-sin-morir-en-el-intento
 
+# DAILY SCRUM FORMAT
+- What did you do yesterday?
+- What will you do today?
+- Are there any impediments/blocking in your way?
+
 
 
 
