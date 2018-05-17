@@ -19,6 +19,11 @@ https://www.tenstep.ec/portal/articulos-boletin-tenstep/253-scrum-como-escribir-
 - What will you do today?
 - Are there any impediments/blocking in your way?
 
+# Poker Planing
+
+https://scrumpoker.online/
+
+
 
 
 
