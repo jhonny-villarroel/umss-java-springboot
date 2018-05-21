@@ -1,0 +1,20 @@
+spring:
+  application:
+    name: persistence-form-schema
+  data:
+    mongodb:
+      host: localhost
+      port: 27017
+      uri: mongodb://localhost:27017/social-chat-db
+
+server:
+  port: 8898
+
+eureka:
+  client:
+    registerWithEureka: true
+    fetchRegistry: true
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+    healthcheck:
+      enabled: true
