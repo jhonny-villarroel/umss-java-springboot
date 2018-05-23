@@ -1,3 +1,37 @@
+# Trabajo FInal
+
+# Crear una aplicacion con una UI que consuma servicios Rest:
+# Req. minimos
+
+## 1) UI
+- minimamente CRUD open (Angular, React , Jquery)
+  - insertar
+  - borrar
+  - actualizar
+
+## 2) API RES
+- Persistencia (NOSQL OR SQL)
+- RestAPI - Swagger
+- Por lo menos 4 collections or 4 Tablas
+## 3) subir a un repositorio
+
+- Github
+
+## 4) extra (no obligatorio)
+- su app corriendo en Docker
+- rest api, db, ui
+
+## Fecha de Presentacion: (1 de Junio - 2018 (CENA Despedida)
+ - 20:00)
+
+ - 1 de Junio - 2018 (CENA Despedida)
+ - 20:00
+ - Traer Laptos con su app funcionando. al Aula Industrial UMSS 
+
+  
+
+
+
 # spring-boot
 
 # URL Presentation
